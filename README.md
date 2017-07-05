@@ -11,10 +11,10 @@ $ bower install fa-switch --save
 Example:
  ```html
  	<fa-switch  start-icon="check" 
-				end-icon="times"
-				animation-type="rotate"
-				icon-state="{{vm.rotate180}}">
-	</fa-switch>
+			    end-icon="times"
+			    animation-type="rotate"
+			    icon-state="{{vm.rotate180}}">
+		</fa-switch>
   ```
   
 Use the name of your start font awesome icon inside `start-icon=""` and the name of the end icon inside `end-icon=""` For example `start-icon="check" end-icon="times"` Do not include the `fa-` part of the icon name. `fa fa-` has been included already.
