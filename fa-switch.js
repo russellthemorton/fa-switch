@@ -42,12 +42,10 @@
 				</div>
 			</div>
 	`
-
 		};
 		return directive;
 
 		function link(scope, element, attrs, controller) {
-
 		}
 	}
 
