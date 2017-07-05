@@ -1,0 +1,13 @@
+{
+  "name": "fa-switch",
+  "version": "1.0.0",
+  "description": "fa-switch is an angularJS directive for animating the transition between font awesome icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Russell Morton",
+  "license": "MIT",
+  "devDependencies": {
+  }
+}

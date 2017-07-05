@@ -1,0 +1,4 @@
+## Ingnore Libs and node.modules 
+
+www/lib
+node_modules
